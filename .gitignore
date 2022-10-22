@@ -1,0 +1,6 @@
+*
+
+!*.cpp
+!*/
+!.gitignore
+!cp.code-workspace
